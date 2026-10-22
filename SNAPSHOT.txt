@@ -1,0 +1,4 @@
+Esil Python project
+Date: 2026-10-21
+GitHub base: d2de2b56316af135fba07947d2b54fba798fa2cf
+Includes adaptive profile cards and all current command modules.
